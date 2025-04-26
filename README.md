@@ -11,8 +11,8 @@
 </header>
 <main>
     <body>
-            <H1>This is my website that I will publish</H1>
-                <h4>The website thas been published.</h4>
+            <H1>Hello This is my website that I will publish</H1>
+                <h4>The website has been published.</h4>
     </body>
 </main>
 
